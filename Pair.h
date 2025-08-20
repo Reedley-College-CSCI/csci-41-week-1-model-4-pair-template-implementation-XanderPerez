@@ -1,5 +1,5 @@
 // Pair.h
-// Your Names
+// Xander Perez, Luis
 #ifndef PAIR_H
 #define PAIR_H
 
